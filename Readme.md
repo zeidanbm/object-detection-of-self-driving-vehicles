@@ -1,2 +1,2 @@
 # Object Detection of Self-driving Vehicles
-This is repo includes a research paper that includes a Jupiter notebook sample code using Python TensorFlow investigating different Neural Network models used for Object detection in self-driving Vehicles.
+This repo includes a research paper with a Jupiter notebook sample code using Python TensorFlow. The paper investigates the different Neural Network models used for object detection in self-driving vehicles.
